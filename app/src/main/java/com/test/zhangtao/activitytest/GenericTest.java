@@ -14,6 +14,8 @@ import java.util.Map;
 public class GenericTest
 {
     private Map<String , Integer> score;
+    private int age;
+    private String name;
 
     public static void showGeneric() throws Exception
     {
